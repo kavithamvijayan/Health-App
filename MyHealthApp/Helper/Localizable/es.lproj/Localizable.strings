@@ -1,0 +1,71 @@
+/* 
+  Localizable.strings
+  MyHealthApp
+
+  Created by IDEV on 11/08/20.
+  Copyright © 2020 Kavitha Vijayan. All rights reserved.
+*/
+
+"mealLog" = "Registro de comidas";
+"dailyWaterIntakeCal" = "Calculadora de ingesta diaria de agua";
+"idealWeightCal" = "Calculadora de peso ideal";
+"fitness" = "Aptitud";
+"changeLanguage" = "Cambiar idioma";
+"dismiss" = "Descartar";
+"selectLanguage" = "Seleccione el idioma";
+"save" = "salvar";
+"meals" = "Comidas";
+"add" = "añadir";
+"protein" = "proteína";
+"carb" = "carbohidratos";
+"mealName" = "Nombre de la comida";
+"enterMealTitle" = "Ingrese los detalles de su comida";
+"update" = "actualizar";
+"calculate" = "calcular";
+"bodyWeight(in lbs)" = "Peso corporal (en libras)";
+"minutesOfExerciseDaily" = "Minutos de ejercicio al día";
+"waterIntakecalculator" = "Calculadora de ingesta de agua";
+"inputfieldscan'tBeEmpty" = "Los campos de entrada no pueden estar vacíos";
+"all exceptions" = "todas las excepciones";
+"Invalid input" = "Entrada inválida";
+"Drink" = "Beber";
+"ounces per day." = "onzas por día.";
+"Ideal Weight Calculator" = "Calculadora de peso ideal";
+"Height (in cms)" = "Altura en centímetros)";
+"Age" = "años";
+"Men:" = "Hombres:";
+"Women:" = "Mujer:";
+"newsTitle" = "Datos COVID";
+"globalCount" = "Recuento global";
+"confirmed" = "Confirmado";
+"recovered" = "Recuperado";
+"deaths" = "Fallecidos";
+"country" = "País : ";
+"profileTitle" = "Configura tu perfil";
+"profileSubtitle" = "Su perfil es la información básica que necesita la aplicación.";
+"profilePictureTitle" = "Cambiar foto de perfil";
+"namePlaceholder" = "Ingrese su nombre";
+"emailPlaceholder" = "Introduzca la dirección de correo electrónico";
+"dobPlaceholder" = "Seleccionar fecha de nacimiento";
+"genderPlaceholder" = "Ingrese género";
+"save" = "SALVAR";
+"edit" = "EDITAR";
+"success" = "Éxito";
+"profileSaved" = "Perfil guardado correctamente.";
+"nameError" = "Por favor, escriba su nombre.";
+"emailError" = "Por favor, introduce una dirección de correo electrónico válida.";
+"dobError" = "Seleccione su fecha de nacimiento.";
+"genderError" = "Ingrese su género.";
+"alert" = "Alerta";
+"photo" = "Tomar foto";
+"gallery" = "librería fotográfica";
+"cameraRoll" = "Rollo de la cámara";
+"cancel" = "Cancelar";
+"Total calories" = "calorías totales";
+"Fat" = "Gorda";
+"Covid Reports" = "Informes de Covid";
+"Profile" = "Perfil";
+"Near by gym" = "Cerca del gimnasio";
+"My Health App" = "Aplicación My Health";
+"Next" = "Próximo";
+"fitness benifit" = "beneficios de fitness";

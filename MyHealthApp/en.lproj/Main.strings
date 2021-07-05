@@ -1,0 +1,135 @@
+
+/* Class = "UIViewController"; title = "Profile View Controller"; ObjectID = "0Kv-ug-GbE"; */
+"0Kv-ug-GbE.title" = "Profile View Controller";
+
+/* Class = "UITextField"; placeholder = "Minutes of exercise daily"; ObjectID = "1Og-B7-blp"; */
+"1Og-B7-blp.placeholder" = "Minutes of exercise daily";
+
+/* Class = "UIViewController"; title = "Ideal Weight Calculator"; ObjectID = "2Ww-wz-Hts"; */
+"2Ww-wz-Hts.title" = "Ideal Weight Calculator";
+
+/* Class = "UITextField"; placeholder = "Height (in cms)"; ObjectID = "2mK-Nx-AZI"; */
+"2mK-Nx-AZI.placeholder" = "Height (in cms)";
+
+/* Class = "UIButton"; normalTitle = "Meal Log"; ObjectID = "44e-fL-NPQ"; */
+"44e-fL-NPQ.normalTitle" = "Meal Log";
+
+/* Class = "UIViewController"; title = "Daily Calorie Intake Calculator"; ObjectID = "6We-ZJ-bwu"; */
+"6We-ZJ-bwu.title" = "Daily Calorie Intake Calculator";
+
+/* Class = "UINavigationItem"; title = "Water Intake Calculator"; ObjectID = "AGk-i9-KAh"; */
+"AGk-i9-KAh.title" = "Water Intake Calculator";
+
+/* Class = "UIViewController"; title = "Daily Water Intake"; ObjectID = "Bsg-hV-2wp"; */
+"Bsg-hV-2wp.title" = "Daily Water Intake";
+
+/* Class = "UILabel"; text = "Protein"; ObjectID = "CyH-iT-yCd"; */
+"CyH-iT-yCd.text" = "Protein";
+
+/* Class = "UIViewController"; title = "Fitness View Controller"; ObjectID = "E01-7H-4wT"; */
+"E01-7H-4wT.title" = "Fitness View Controller";
+
+/* Class = "UILabel"; text = "Enter Your Meal Name"; ObjectID = "F3R-sj-4O1"; */
+"F3R-sj-4O1.text" = "Enter Your Meal Name";
+
+/* Class = "UIButton"; normalTitle = "CALCULATE"; ObjectID = "Hd8-D5-vTl"; */
+"Hd8-D5-vTl.normalTitle" = "CALCULATE";
+
+/* Class = "UILabel"; text = "Select Language"; ObjectID = "Hq8-yd-eHk"; */
+"Hq8-yd-eHk.text" = "Select Language";
+
+/* Class = "UIViewController"; title = "Change Language"; ObjectID = "Jic-DA-cPR"; */
+"Jic-DA-cPR.title" = "Change Language";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "K2t-FY-gbx"; */
+"K2t-FY-gbx.text" = "Profile";
+
+/* Class = "UITextField"; placeholder = "Protein"; ObjectID = "Kf2-Kz-CXx"; */
+"Kf2-Kz-CXx.placeholder" = "Protein";
+
+/* Class = "UIBarButtonItem"; title = "Add"; ObjectID = "Kzo-4g-ovy"; */
+"Kzo-4g-ovy.title" = "Add";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "LRF-hG-qVy"; */
+"LRF-hG-qVy.normalTitle" = "Save";
+
+/* Class = "UITextField"; placeholder = "Meal Name"; ObjectID = "ONg-ri-ohU"; */
+"ONg-ri-ohU.placeholder" = "Meal Name";
+
+/* Class = "UIButton"; normalTitle = "Daily Water Intake Calculator"; ObjectID = "SlM-SN-80V"; */
+"SlM-SN-80V.normalTitle" = "Daily Water Intake Calculator";
+
+/* Class = "UINavigationItem"; title = "Daily Meal Log"; ObjectID = "UUj-Wc-nHp"; */
+"UUj-Wc-nHp.title" = "Daily Meal Log";
+
+/* Class = "UITabBarItem"; title = "Covid Report"; ObjectID = "UWb-Ky-th1"; */
+"UWb-Ky-th1.title" = "Covid Report";
+
+/* Class = "UIViewController"; title = "Covid19Report View Controller"; ObjectID = "Uea-7Z-HBL"; */
+"Uea-7Z-HBL.title" = "Covid19Report View Controller";
+
+/* Class = "UIButton"; normalTitle = "Ideal Weight Calculator"; ObjectID = "WPH-Ty-jrK"; */
+"WPH-Ty-jrK.normalTitle" = "Ideal Weight Calculator";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "aNu-hA-KaT"; */
+"aNu-hA-KaT.title" = "Item";
+
+/* Class = "UILabel"; text = "Carb"; ObjectID = "agQ-K7-I0e"; */
+"agQ-K7-I0e.text" = "Carb";
+
+/* Class = "UINavigationItem"; title = "Ideal Weight Calculator"; ObjectID = "akJ-71-of4"; */
+"akJ-71-of4.title" = "Ideal Weight Calculator";
+
+/* Class = "UITabBarItem"; title = "Fitness"; ObjectID = "axe-jU-H1U"; */
+"axe-jU-H1U.title" = "Fitness";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "aya-Lg-AS2"; */
+"aya-Lg-AS2.title" = "Profile";
+
+/* Class = "UITextField"; placeholder = "Age"; ObjectID = "b8f-nt-9KD"; */
+"b8f-nt-9KD.placeholder" = "Age";
+
+/* Class = "UILabel"; text = "???"; ObjectID = "bxd-Xo-kdd"; */
+"bxd-Xo-kdd.text" = "???";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cHX-LD-X5c"; */
+"cHX-LD-X5c.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Body weight (in lbs)"; ObjectID = "cer-7P-7W5"; */
+"cer-7P-7W5.placeholder" = "Body weight (in lbs)";
+
+/* Class = "UILabel"; text = "???"; ObjectID = "e0L-GT-1iV"; */
+"e0L-GT-1iV.text" = "???";
+
+/* Class = "UIButton"; normalTitle = "Spanish"; ObjectID = "epN-Mw-xEJ"; */
+"epN-Mw-xEJ.normalTitle" = "Spanish";
+
+/* Class = "UILabel"; text = "???"; ObjectID = "eve-r0-WHM"; */
+"eve-r0-WHM.text" = "???";
+
+/* Class = "UINavigationItem"; title = "Fitness"; ObjectID = "fKj-WA-ZWo"; */
+"fKj-WA-ZWo.title" = "Fitness";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "h0q-sF-gRz"; */
+"h0q-sF-gRz.text" = "Email";
+
+/* Class = "UIButton"; normalTitle = "CALCULATE"; ObjectID = "hVC-vp-90x"; */
+"hVC-vp-90x.normalTitle" = "CALCULATE";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "ioD-4b-2Dx"; */
+"ioD-4b-2Dx.normalTitle" = "English";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "lRF-zp-BQw"; */
+"lRF-zp-BQw.normalTitle" = "Edit";
+
+/* Class = "UITextField"; placeholder = "Carb"; ObjectID = "oaS-3T-BLv"; */
+"oaS-3T-BLv.placeholder" = "Carb";
+
+/* Class = "UILabel"; text = "Enter Your Meal  Details"; ObjectID = "tAF-gV-Gt9"; */
+"tAF-gV-Gt9.text" = "Enter Your Meal  Details";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "yug-aR-mEu"; */
+"yug-aR-mEu.normalTitle" = "Select";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "zsP-rB-YxL"; */
+"zsP-rB-YxL.text" = "Name";
