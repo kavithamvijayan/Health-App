@@ -1,0 +1,71 @@
+/* 
+  Localizable.strings
+  MyHealthApp
+
+  Created by IDEV on 11/08/20.
+  Copyright © 2020 Kavitha Vijayan. All rights reserved.
+*/
+
+"mealLog" = "Meal Log";
+"dailyWaterIntakeCal" = "Daily Water Intake Calculator";
+"idealWeightCal" = "Ideal Weight Calculator";
+"fitness" = "Fitness";
+"changeLanguage" = "Change Language";
+"dismiss" = "Dismiss";
+"selectLanguage" = "Select Language";
+"save" = "Save";
+"meals" = "Meals";
+"add" = "Add";
+"protein" = "Protein";
+"carb" = "Carb";
+"mealName" = "Meal Name";
+"enterMealTitle" = "Enter Your Meal  Details";
+"update" = "Update";
+"calculate" = "CALCULATE";
+"bodyWeight(in lbs)" = "Body weight (in lbs)";
+"minutesOfExerciseDaily" = "Minutes of exercise daily";
+"waterIntakecalculator" = "Water Intake calculator";
+"inputfieldscan'tBeEmpty" = "Input fields can't be empty";
+"all exceptions" = "all exceptions";
+"Invalid input" = "Invalid input";
+"Drink" = "Drink";
+"ounces per day." = "ounces per day.";
+"Ideal Weight Calculator" = "Ideal Weight Calculator";
+"Height (in cms)" = "Height (in cms)";
+"Age" = "Age";
+"Men:" = "Men:";
+"Women:" = "Women:";
+"newsTitle" = "COVID Data";
+"globalCount" = "Global Count";
+"confirmed" = "Confirmed";
+"recovered" = "Recovered";
+"deaths" = "Deaths";
+"country" = "Country : ";
+"profileTitle" = "Set up your profile";
+"profileSubtitle" = "Your profile is the basic information the app needs.";
+"profilePictureTitle" = "Change profile picture";
+"namePlaceholder" = "Enter name";
+"emailPlaceholder" = "Enter email address";
+"dobPlaceholder" = "Select date of birth";
+"genderPlaceholder" = "Enter gender";
+"save" = "SAVE";
+"edit" = "EDIT";
+"success" = "Success";
+"profileSaved" = "Profile successfully saved.";
+"nameError" = "Please enter your name.";
+"emailError" = "Please enter a valid email address.";
+"dobError" = "Please select your date of birth.";
+"genderError" = "Please enter your gender.";
+"alert" = "Alert";
+"photo" = "Take photo";
+"gallery" = "Photo library";
+"cameraRoll" = "Camera roll";
+"cancel" = "Cancel";
+"Total calories" = "Total calories";
+"Fat" = "Fat";
+"Covid Reports" = "Covid Reports";
+"Profile" = "Profile";
+"Near by gym" = "Near by gym";
+"My Health App" = "My Health App";
+"Next" = "Next";
+"fitness benifit" = "Fitness Benifit";
